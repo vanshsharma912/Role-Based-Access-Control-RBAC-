@@ -21,8 +21,9 @@ The goal of this assignment is to assess your understanding and implementation s
 <li>Register: POST /api/users/register/</li>
 <li>Login (Obtain JWT): POST /api/token/</li>
 <li>Refresh Token: POST /api/token/refresh/</li>
-<br>
-<li>Admin-only Endpoint: GET /api/users/admin-only/ (Requires Admin role)</li>
-<li>Moderator-only Endpoint: GET /api/users/moderator-only/ (Requires Moderator role)</li>
+
 
 # Role_Based_Access
+
+<li>Admin-only Endpoint: GET /api/users/admin-only/ (Requires Admin role)</li>
+<li>Moderator-only Endpoint: GET /api/users/moderator-only/ (Requires Moderator role)</li>
