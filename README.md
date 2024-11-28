@@ -15,3 +15,12 @@ The goal of this assignment is to assess your understanding and implementation s
 <li>Django REST Framework: API development.</li><br>
 <li>SimpleJWT: JWT-based authentication.</li><br>
 <li>SQLite: Default database (can be swapped for other databases).</li>
+
+# Endpoints
+# Authentication
+<li>Register: POST /api/users/register/</li>
+<li>Login (Obtain JWT): POST /api/token/</li>
+<li>Refresh Token: POST /api/token/refresh/</li>
+# Role-Based Access
+<li>Admin-only Endpoint: GET /api/users/admin-only/ (Requires Admin role)</li>
+<li>Moderator-only Endpoint: GET /api/users/moderator-only/ (Requires Moderator role)</li>
