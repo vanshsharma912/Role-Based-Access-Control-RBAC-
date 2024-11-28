@@ -9,8 +9,9 @@ Moderator: Limited access to specific resources.<br>
 User: Basic access permissions.</li></ul>
 <li>Secure Authentication using JWT (JSON Web Tokens). <br>
 Endpoints protected with role-specific permissions.</li>
-# Technologies Used <br>
-<li></li>Django: Web framework.<br>
+
+# Technologies_Used <br>
+<li>Django: Web framework.<br>
 Django REST Framework: API development.<br>
 SimpleJWT: JWT-based authentication.<br>
 SQLite: Default database (can be swapped for other databases).</li>
