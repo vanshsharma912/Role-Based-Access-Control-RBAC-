@@ -2,7 +2,7 @@
 The goal of this assignment is to assess your understanding and implementation skills regarding Authentication, Authorization, and Role-Based Access Control (RBAC).
 
 # Features <br>
-<ul>User Registration, Login, and Logout.</ul>
+<li>User Registration, Login, and Logout.</li>
 Role-Based Access Control (RBAC) with roles:
 Admin: Full access to all endpoints.
 Moderator: Limited access to specific resources.
