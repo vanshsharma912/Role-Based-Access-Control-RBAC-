@@ -3,7 +3,7 @@ The goal of this assignment is to assess your understanding and implementation s
 
 # Features <br>
 <li>User Registration, Login, and Logout.<br>
-Role-Based Access Control (RBAC) with roles:</li>
+<li>Role-Based Access Control (RBAC) with roles:</li>
 <ul><li>Admin: Full access to all endpoints.</li><br>
 <li>Moderator: Limited access to specific resources.</li><br>
 <li>User: Basic access permissions.</li></ul>
